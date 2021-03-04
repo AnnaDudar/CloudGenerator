@@ -25,7 +25,7 @@ Capabilities of the CloudGenerator:
 
 ## Installation
 The files represented on GitHub are only release files, there is no source code provided.\
-If you would like to run the program and get the rendered output yourself, please download the *CloudGenerator_Release.zip* file.
+If you would like to run the program and get the rendered output yourself, please download the *CloudGenerator_Release.zip* file.\
 The .zip file contains the following items:
 * *input* folder for keeping objects building up the scene as well as shaders;
 * an executible *CloudGenerator.exe*;
