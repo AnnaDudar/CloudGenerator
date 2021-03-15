@@ -28,8 +28,8 @@ The files represented on GitHub are only release files, there is no source code 
 If you would like to run the program and get the rendered output yourself, please download the *CloudGenerator_Release.zip* file.\
 The .zip file contains the following items:
 * *input* folder for keeping objects building up the scene as well as shaders;
-* an executible *CloudGenerator.exe*;
-* the dynamic library file glew32.dll.
+* executible *CloudGenerator.exe*;
+* dynamic library file glew32.dll.
 
 ## Contact
 If you have any questions please do not hesitate to contact me via anna_dudar@hotmail.com
